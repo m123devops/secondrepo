@@ -1,2 +1,0 @@
-# secondrepo
-git second repository
